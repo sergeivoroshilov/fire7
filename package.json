@@ -1,0 +1,33 @@
+{
+  "name": "fire7",
+  "version": "1.0.0",
+  "description": "Real-time data binding between Firebase Cloud Firestore and your Framework7 app",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeivoroshilov/fire7.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "framework7",
+    "binding",
+    "fire7"
+  ],
+  "author": "Sergei Voroshilov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeivoroshilov/fire7/issues"
+  },
+  "homepage": "https://github.com/sergeivoroshilov/fire7#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.15.7",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
